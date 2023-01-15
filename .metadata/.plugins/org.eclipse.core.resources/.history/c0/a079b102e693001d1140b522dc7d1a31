@@ -1,0 +1,6 @@
+package com.greatlearning.ems.entity;
+
+
+public class Employee {
+
+}

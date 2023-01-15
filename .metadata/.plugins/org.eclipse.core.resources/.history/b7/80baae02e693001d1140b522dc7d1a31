@@ -1,0 +1,5 @@
+package com.greatlearning.ems.service;
+
+public interface EmployeeService {
+
+}
